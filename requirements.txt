@@ -1,0 +1,12 @@
+streamlit
+ipykernel
+langchain
+langchain-community
+langchain-groq
+load-dotenv
+transformers
+pypdf
+validators
+youtube_transcript_api
+unstructured
+pytube
